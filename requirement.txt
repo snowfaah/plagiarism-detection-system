@@ -13,3 +13,4 @@ plotly==5.18.0
 reportlab==4.0.7
 werkzeug==3.0.1
 chardet==5.2.0
+gunicorn 
